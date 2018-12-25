@@ -57,7 +57,9 @@
 **Полученный результат**
 
 Полученный результат соответствует ожидаемому.
-
+Результат после выаолнения 6 пункта:
+![test_case_two2](./img/notes_case_two2.png)
+Итоговый результат:
 ![test_case_two](./img/notes_case_two.png)
 
 
@@ -91,4 +93,4 @@
 Результат после выполнения 6 пункта:
 ![test_case_three1](./img/notes_case_three1.png)
 Итоговый результат:
-![test_case_three2](./img/notes_case_three1.png)
+![test_case_three2](./img/notes_case_three2.png)
